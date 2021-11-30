@@ -2,7 +2,7 @@
     "gitmoji.onlyUseAdditionalEmojis": true,
     "gitmoji.additionalEmojis": [
         {
-        "emoji": "🌱　new　░",
+        "emoji": "🌱　new ░",
         "code": ":new:",
         "description": "New feature",
         },
