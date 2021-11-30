@@ -1,7 +1,7 @@
 {:nrepl {:port 8777}
 
  
-;;new
+;;new1
  :source-paths ["src"]
 
  :dependencies
