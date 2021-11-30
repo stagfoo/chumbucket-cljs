@@ -32,9 +32,9 @@
             "description": "Anything style related.",
         },
         {
-        "emoji": "💣　breaking ░",
-        "code": ":danger:",
-        "description": "Change that breaks previous versions.",
+            "emoji": "💣　breaking ░",
+            "code": ":danger:",
+            "description": "Change that breaks previous versions.",
         },
         {
             "code": ":test:",
