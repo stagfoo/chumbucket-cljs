@@ -2,37 +2,37 @@
     "gitmoji.onlyUseAdditionalEmojis": true,
     "gitmoji.additionalEmojis": [
         {
-        "emoji": "🌱　new    | ",
+        "emoji": "🌱　new____　| ",
         "code": ":new:",
         "description": "New feature",
         },
         {
-            "emoji": "🪲　bugfix | ",
+            "emoji": "🪲　bugfix_　| ",
             "code": ":bug:",
             "description": "Fix a bug — need I say more?",
         },
         {
-            "emoji": "🧰　improve|  ",
+            "emoji": "✨　improve　|  ",
             "code": ":improve:",
             "description": "Improve piece of code like refactoring.",
         },
         {
-            "emoji": "🧼　chore  | ",
+            "emoji": "🧼　chore__　| ",
             "code": ":soup:",
             "description": "Anything documentation related.",
         },
         {
-        "emoji": "💥　danger | ",
+        "emoji": "💥　danger_　| ",
         "code": ":danger:",
         "description": "Change that breaks previous versions.",
         },
         {
             "code": ":test:",
-            "emoji": "🧪　test   | ",
+            "emoji": "🧪　testing　| ",
             "description": "Testing related commits.",
         },
         {
-            "emoji": "🚀　release| ",
+            "emoji": "🚀　release　| ",
             "code": ":release:",
             "description": "Release a new version.",
         },
