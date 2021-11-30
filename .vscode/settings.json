@@ -22,7 +22,7 @@
             "description": "Anything documentation related.",
         },
         {
-        "emoji": "💥　danger　░",
+        "emoji": "💥　danger ░",
         "code": ":danger:",
         "description": "Change that breaks previous versions.",
         },
