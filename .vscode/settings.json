@@ -17,11 +17,6 @@
             "description": "Improve piece of code like refactoring.",
         },
         {
-            "emoji": "🧰  improve 🧰  ",
-            "code": ":chore:",
-            "description": "Improve piece of code like refactoring.",
-        },
-        {
             "emoji": "🧼  chore 🧼  ",
             "code": ":soup:",
             "description": "Anything documentation related.",
