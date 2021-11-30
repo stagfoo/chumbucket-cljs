@@ -1,5 +1,5 @@
 {
-	"name": "chumbucket-1",
+	"name": "chumbucket-2",
 	"scripts": {
 		"ancient": "clojure -Sdeps '{:deps {com.github.liquidz/antq {:mvn/version \"RELEASE\"}}}' -m antq.core",
 		"watch": "npx shadow-cljs watch app browser-test karma-test",
